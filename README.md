@@ -42,7 +42,7 @@ this is script also show you location of the number on map.
 # OpenCage API key
 1. Go to [OpenCage Site](https://opencagedata.com/).
 2. Signin and Get you api-key. 
-3. Go to main.py file and paste your api-key there.
+3. Create a key.py file and paste your api-key there like this - 
    ```bash
    keys = "Enter-your-API-Key"
    ```
