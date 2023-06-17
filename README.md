@@ -1,7 +1,7 @@
 # [📡 Number-Tracker ](https://github.com/shivang21007/Number-Tracker)
-This is phone-number tracking pyhton script. You can get some useful information about any phone-number.
-this script is using some pyhton modules like geocoder, phonenumbers, folium and opencage api to gather data.
-this is script also show you location of the number on map.
+This is phone-number tracking pyhton script. You can get some useful information about any phone-number(including international phone-numbers).
+This script is using some pyhton modules like geocoder, phonenumbers, folium and opencage api to gather data.
+This is script also show you location of the number on map.
 
 
 
