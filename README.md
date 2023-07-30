@@ -2,6 +2,10 @@
 This is phone-number tracking pyhton script. You can get some useful information about any phone-number(including international phone-numbers).
 This script is using some pyhton modules like geocoder, phonenumbers, folium and opencage api to gather data.
 This is script also show you location of the number on map.
+</br>
+
+![pyhton snipit](https://github.com/shivang21007/Number-Tracker/assets/98748694/81f68fb4-9e7f-46e1-8e8e-0204bac63028)
+
 
 
 
@@ -54,3 +58,4 @@ This is script also show you location of the number on map.
    +91 XXXXXXXXXX
    ```
 3. And script will display the information in your terminal and also show you on the map.
+4. If map doesn't open automatically in browser, Just click the "mylocation.html" manually.
