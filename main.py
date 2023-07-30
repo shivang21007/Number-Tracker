@@ -42,5 +42,6 @@ folium.Marker([lat,lng], popup=number_location).add_to(map_location)
 map_location.save("mylocation.html")
 
 import webbrowser
-url = 'file:///C:/Users/Shivang%20Gupta/Desktop/without-git/Python%20Project/Track-phone%20no/mylocation.html'
-webbrowser.open(url, new=2)
+# here insert the relative path of your mylocation.html file 
+url = " realtive path " 
+webbrowser.open_new(url)
