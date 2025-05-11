@@ -1,7 +1,7 @@
 # [📡 Number-Tracker ](https://github.com/shivang21007/Number-Tracker)
 This is phone-number tracking python script. You can get some useful information about any phone-number(including international phone-numbers).
 This script is using some python modules like geocoder, phonenumbers, folium and opencage api to gather data.
-This is script also show you location of the number on map.
+This is script also show you origin country of the number on map.
 </br>
 
 ![python snippet](https://github.com/shivang21007/Number-Tracker/assets/98748694/81f68fb4-9e7f-46e1-8e8e-0204bac63028)
