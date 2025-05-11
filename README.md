@@ -1,10 +1,10 @@
 # [📡 Number-Tracker ](https://github.com/shivang21007/Number-Tracker)
-This is phone-number tracking pyhton script. You can get some useful information about any phone-number(including international phone-numbers).
-This script is using some pyhton modules like geocoder, phonenumbers, folium and opencage api to gather data.
+This is phone-number tracking python script. You can get some useful information about any phone-number(including international phone-numbers).
+This script is using some python modules like geocoder, phonenumbers, folium and opencage api to gather data.
 This is script also show you location of the number on map.
 </br>
 
-![pyhton snipit](https://github.com/shivang21007/Number-Tracker/assets/98748694/81f68fb4-9e7f-46e1-8e8e-0204bac63028)
+![python snippet](https://github.com/shivang21007/Number-Tracker/assets/98748694/81f68fb4-9e7f-46e1-8e8e-0204bac63028)
 
 
 
@@ -22,9 +22,9 @@ This is script also show you location of the number on map.
 
    
 
-# 📌 To install Pyhton Dependencies
+# 📌 To install Python Dependencies
 1. First make sure you have install python in your local system.
- [click here to download pyhton](https://www.python.org/downloads/)
+ [click here to download python](https://www.python.org/downloads/)
 
 2. Go to your code folder and in terminal run -
 3.  For Phonenumbers Library -
